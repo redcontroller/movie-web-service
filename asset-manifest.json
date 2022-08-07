@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redcontroller/movie-web-service.git/static/css/main.e93e0ed1.css",
+    "main.js": "/redcontroller/movie-web-service.git/static/js/main.bc7d412b.js",
+    "index.html": "/redcontroller/movie-web-service.git/index.html",
+    "main.e93e0ed1.css.map": "/redcontroller/movie-web-service.git/static/css/main.e93e0ed1.css.map",
+    "main.bc7d412b.js.map": "/redcontroller/movie-web-service.git/static/js/main.bc7d412b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93e0ed1.css",
+    "static/js/main.bc7d412b.js"
+  ]
+}
